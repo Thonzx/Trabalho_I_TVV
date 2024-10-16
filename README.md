@@ -1,4 +1,4 @@
-### Manual de Instalação
+# Organização e Manual de Instalação
 O Manual de Instalação e Configuração do sistema está disponível no final do arquivo README do projeto, contendo todas as instruções necessárias para configurar o sistema corretamente.
 
 ## Organização do Projeto de Teste, Verificação e Validação de Software
@@ -46,15 +46,33 @@ As atividades de validação utilizam métodos como a avaliação heurística pa
 **Acesse aqui:** Diretorio_de_Validacao>Validacao.md ou [Atividades de Validação](https://github.com/Thonzx/Trabalho_I_TVV/blob/main/Diretorio_de_Validacao/Validacao_Usabilidade.md)]
 
 ---
-[Link 1](https://drive.google.com/uc?export=view&id=1TfBIHWUys8576piVu5_sKyGt8ezcVvcj)
-[Link 2](https://drive.google.com/uc?export=view&id=1H0xRqHmyEgNhdxd0U9k9d59PhnzKUbh1)
-[Link 3](https://drive.google.com/uc?export=view&id=167q4Dra7PdioA25vW6H5ygcufnQ_cmGF)
-[Link 4](https://drive.google.com/uc?export=view&id=1FKZeNMOMoXup26xmBtL3slqg1gcxFL2Z)
-[Link 5](https://drive.google.com/uc?export=view&id=1UCETZ5-xI73JtdaKeUcd6e6cEaTUmB7W)
-[Link 6](https://drive.google.com/uc?export=view&id=1X2ax2iNPi3ONpTa7bVDh1Ow8Ky8ZaxMu)
-[Link 7](https://drive.google.com/uc?export=view&id=17rzIPTiZmBem2qKEIwdLXvPovgHMkKuh)
-[Link 8](https://drive.google.com/uc?export=view&id=10B3JuY61XBAYIN_zQQTxoX_PNtgM5Eoz)
-[Link 9](https://drive.google.com/uc?export=view&id=1ORScGII8eIzGqnhaE-4ODPCNM2s_YWJ0)
-[Link 10](https://drive.google.com/uc?export=view&id=14GSq3JWM9UPctrpoLBvfhuAhXesRUgTy)
-[Link 11](https://drive.google.com/uc?export=view&id=15ENmnF2mKiNsqZegeHyo1CfAunsctsko)
-[Link 12](https://drive.google.com/uc?export=view&id=1ommLUS1CdGtfev8YNUmaRuQxbMS4VoLs)
+## Instalação do Sistema
+### Iniciando o XAMPP Server
+![Link 11](https://drive.google.com/uc?export=view&id=15ENmnF2mKiNsqZegeHyo1CfAunsctsko)
+
+### Importando o Banco de Dados
+![Link 12](https://drive.google.com/uc?export=view&id=1ommLUS1CdGtfev8YNUmaRuQxbMS4VoLs)
+
+![Link 1](https://drive.google.com/uc?export=view&id=1TfBIHWUys8576piVu5_sKyGt8ezcVvcj)
+  
+![Link 2](https://drive.google.com/uc?export=view&id=1H0xRqHmyEgNhdxd0U9k9d59PhnzKUbh1)
+ 
+![Link 3](https://drive.google.com/uc?export=view&id=167q4Dra7PdioA25vW6H5ygcufnQ_cmGF)
+ 
+![Link 4](https://drive.google.com/uc?export=view&id=1FKZeNMOMoXup26xmBtL3slqg1gcxFL2Z)
+ 
+![Link 5](https://drive.google.com/uc?export=view&id=1UCETZ5-xI73JtdaKeUcd6e6cEaTUmB7W)
+
+### Importando e Inicializando o Código Fonte 
+![Link 6](https://drive.google.com/uc?export=view&id=1X2ax2iNPi3ONpTa7bVDh1Ow8Ky8ZaxMu)
+ 
+![Link 7](https://drive.google.com/uc?export=view&id=17rzIPTiZmBem2qKEIwdLXvPovgHMkKuh)
+ 
+![Link 8](https://drive.google.com/uc?export=view&id=10B3JuY61XBAYIN_zQQTxoX_PNtgM5Eoz)
+ 
+![Link 9](https://drive.google.com/uc?export=view&id=1ORScGII8eIzGqnhaE-4ODPCNM2s_YWJ0)
+ 
+![Link 10](https://drive.google.com/uc?export=view&id=14GSq3JWM9UPctrpoLBvfhuAhXesRUgTy)
+ 
+
+
