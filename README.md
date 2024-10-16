@@ -73,6 +73,11 @@ As atividades de validação utilizam métodos como a avaliação heurística pa
 ![Link 9](https://drive.google.com/uc?export=view&id=1ORScGII8eIzGqnhaE-4ODPCNM2s_YWJ0)
  
 ![Link 10](https://drive.google.com/uc?export=view&id=14GSq3JWM9UPctrpoLBvfhuAhXesRUgTy)
- 
 
+## Links para Downloads dos Programas Utilizados
+
+- https://www.apachefriends.org/pt_br/index.html
+- https://code.visualstudio.com/download
+- https://www.mysql.com/products/workbench/
+- https://nodejs.org/en/download/prebuilt-installer
 
