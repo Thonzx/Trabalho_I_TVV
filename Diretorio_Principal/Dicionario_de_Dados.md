@@ -1,7 +1,6 @@
 # Dicionário de Dados - Sistema de Troca e Venda de Livros (Book Store)
 
-## Dicionário de Dados em Tabela (Formato GitHub)
-
+## Dicionário de Dados em Tabela
 | Nome do Dado       | Tipo de Dado       | Descrição                                     | Formato                      | Restrições                          |
 |--------------------|--------------------|-----------------------------------------------|------------------------------|-------------------------------------|
 | ID_Usuário         | Inteiro (4 bytes)  | Identificador único do usuário no sistema.    | Número inteiro positivo      | PK, NOT NULL, AUTO INCREMENT       |
